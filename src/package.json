@@ -1,0 +1,14 @@
+{
+  "name": "state-machine-visualizer",
+  "version": "1.0.0",
+  "description": "Fork of https://codepen.io/davidkpiano/pen/ayWKJO/",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "xstate": "1.2.1",
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "cytoscape-cose-bilkent": "3.0.2",
+    "cytoscape": "3.2.6"
+  }
+}
